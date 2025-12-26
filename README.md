@@ -8,5 +8,3 @@ The purpose of this project is to understand basic sorting algorithms.
 - Big-O notation
 - Best, Average and Worst case explanation
 - Selection Sort first 4 steps
-# insertion-sort-projesi
-Kodluyoruz Data Analysis Training
