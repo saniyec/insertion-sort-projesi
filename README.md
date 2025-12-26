@@ -1,10 +1,11 @@
-# Insertion Sort Project
+# Algorithm Projects
 
-This repository was created as part of the Patika.Dev Data Analysis training.
-The purpose of this project is to understand basic sorting algorithms.
+Insertion Sort, Merge Sort and Binary Search Tree
 
-## Content
-- Insertion Sort steps
-- Big-O notation
-- Best, Average and Worst case explanation
-- Selection Sort first 4 steps
+This repository was prepared as part of the Kodluyoruz Data Analysis training.
+It includes basic algorithm studies with step-by-step explanations.
+
+## Included Projects
+- Insertion Sort
+- Merge Sort
+- Binary Search Tree
